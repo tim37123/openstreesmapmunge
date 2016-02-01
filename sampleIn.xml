@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.7T" timestamp="2016-01-30T00:31:01Z">
+        <bounds minlat="63.771" minlon="-22.826" maxlat="64.297" maxlon="-21.14"/>
+        <node id="12885854" lat="63.9721673" lon="-22.5434936" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885858" lat="64.0244747" lon="-22.1232161" version="1" timestamp="2006-08-08T22:26:50Z" changeset="78600" uid="1626" user="FredB">
+                <tag k="created_by" v="JOSM"/>
+        </node>
+        <node id="12885859" lat="63.9723136" lon="-22.5449475" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885862" lat="64.0392591" lon="-22.0481078" version="2" timestamp="2014-07-25T02:33:20Z" changeset="24341135" uid="209717" user="Kjarrval"/>
+        <node id="12885866" lat="64.0672776" lon="-21.9373954" version="6" timestamp="2012-07-12T02:07:23Z" changeset="12191774" uid="209717" user="Kjarrval"/>
+        <node id="12885867" lat="63.9724644" lon="-22.546172" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885869" lat="63.9693184" lon="-22.3733924" version="1" timestamp="2007-10-02T17:46:46Z" changeset="22361" uid="11585" user="KarlP">
+                <tag k="created_by" v="JOSM"/>
+        </node>
+        <node id="12885874" lat="63.9707205" lon="-22.5285725" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885875" lat="63.9847983" lon="-22.3178042" version="1" timestamp="2006-08-08T22:26:55Z" changeset="78600" uid="1626" user="FredB">
+                <tag k="created_by" v="JOSM"/>
+        </node>
+        <node id="12885933" lat="64.0485878" lon="-22.0116593" version="2" timestamp="2014-07-25T02:33:20Z" changeset="24341135" uid="209717" user="Kjarrval"/>
+        <node id="12885935" lat="63.9870858" lon="-22.3075881" version="1" timestamp="2007-10-02T17:46:46Z" changeset="22361" uid="11585" user="KarlP">
+                <tag k="created_by" v="JOSM"/>
+        </node>
+        <node id="12885971" lat="64.0372797" lon="-22.068892" version="2" timestamp="2014-07-25T02:33:20Z" changeset="24341135" uid="209717" user="Kjarrval"/>
+        <node id="12885973" lat="63.9753122" lon="-22.3548951" version="3" timestamp="2010-04-14T00:22:28Z" changeset="4418886" uid="50061" user="Baldvin"/>
+        <node id="12885974" lat="64.0668978" lon="-21.9378473" version="8" timestamp="2012-07-12T02:07:23Z" changeset="12191774" uid="209717" user="Kjarrval"/>
+        <node id="12885976" lat="63.9727869" lon="-22.5479553" version="6" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885977" lat="64.0364513" lon="-22.0724809" version="2" timestamp="2014-07-25T02:33:20Z" changeset="24341135" uid="209717" user="Kjarrval"/>
+        <node id="12885978" lat="63.9668342" lon="-22.4886714" version="4" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12885979" lat="64.0762647" lon="-21.9406837" version="11" timestamp="2015-01-06T20:58:43Z" changeset="27965660" uid="1420318" user="4b696d"/>
+        <node id="12885980" lat="64.0359558" lon="-22.073844" version="2" timestamp="2014-07-25T02:33:20Z" changeset="24341135" uid="209717" user="Kjarrval"/>
+        <node id="12885983" lat="64.0763057" lon="-21.940472" version="7" timestamp="2015-01-06T20:58:43Z" changeset="27965660" uid="1420318" user="4b696d"/>
+        <node id="12885984" lat="64.0375105" lon="-22.0670781" version="2" timestamp="2014-07-25T02:33:20Z" changeset="24341135" uid="209717" user="Kjarrval"/>
+        <node id="12885987" lat="63.9698606" lon="-22.5197734" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885989" lat="63.9735768" lon="-22.5508403" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
+        <node id="12885990" lat="64.0660628" lon="-21.9372965" version="3" timestamp="2012-07-12T02:07:23Z" changeset="12191774" uid="209717" user="Kjarrval"/>
+        <node id="12885991" lat="64.0760835" lon="-21.9408544" version="6" timestamp="2015-01-06T20:58:44Z" changeset="27965660" uid="1420318" user="4b696d"/>
+        <node id="12885994" lat="63.9620751" lon="-22.4534516" version="3" timestamp="2009-03-27T10:14:53Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12885995" lat="63.9672897" lon="-22.3814883" version="1" timestamp="2007-10-02T17:46:46Z" changeset="22361" uid="11585" user="KarlP">
+                <tag k="created_by" v="JOSM"/>
+        </node>
+        <node id="12886031" lat="63.9747318" lon="-22.5533285" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886032" lat="63.9741805" lon="-22.552256" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886033" lat="63.9791377" lon="-22.5596868" version="6" timestamp="2014-03-19T22:12:28Z" changeset="21200981" uid="392336" user="Mister Kanister"/>
+        <node id="12886034" lat="63.9802415" lon="-22.5618033" version="10" timestamp="2014-06-08T06:08:36Z" changeset="22803615" uid="651869" user="Aurimas Fišeras"/>
+        <node id="12886035" lat="63.9808091" lon="-22.5625629" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886036" lat="63.9813428" lon="-22.5638848" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886037" lat="63.9820089" lon="-22.5656553" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886038" lat="63.9826007" lon="-22.5668778" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886039" lat="63.9837887" lon="-22.5689746" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886040" lat="63.9860138" lon="-22.5724642" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886041" lat="63.990584" lon="-22.5785864" version="4" timestamp="2009-03-27T10:14:57Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12886042" lat="63.9849428" lon="-22.5708589" version="5" timestamp="2013-08-18T17:25:06Z" changeset="17399450" uid="704335" user="Klaus88"/>
+        <node id="12886043" lat="63.9922456" lon="-22.580878" version="4" timestamp="2009-03-27T10:14:57Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12886044" lat="63.9936749" lon="-22.5829643" version="4" timestamp="2009-03-27T10:14:57Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12886045" lat="63.9976437" lon="-22.5898692" version="4" timestamp="2009-03-27T10:14:57Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12886046" lat="63.9961037" lon="-22.5870413" version="4" timestamp="2009-03-27T10:14:57Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12886047" lat="63.9947331" lon="-22.5846336" version="4" timestamp="2009-03-27T10:14:57Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="12886048" lat="63.999832" lon="-22.5944727" version="4" timestamp="2009-03-27T10:14:58Z" changeset="862717" uid="25051" user="Bjarki"/>
+        <node id="13472322" lat="64.1059383" lon="-21.7770709" version="2" timestamp="2011-03-19T04:54:53Z" changeset="7601367" uid="209717" user="Kjarrval"/>
+        <node id="13472327" lat="64.0730418" lon="-21.6356424" version="1" timestamp="2007-09-21T22:54:16Z" changeset="496594" uid="11585" user="KarlP">
+                <tag k="created_by" v="JOSM"/>
+        </node>
+        <way id="4342929" version="5" timestamp="2011-02-22T20:56:35Z" changeset="7367483" uid="392336" user="Mister Kanister">
+                <nd ref="26449759"/>
+                <nd ref="26449824"/>
+                <nd ref="26449807"/>
+                <nd ref="26449809"/>
+                <nd ref="1167046739"/>
+                <nd ref="1167046622"/>
+                <nd ref="26449814"/>
+                <nd ref="26449815"/>
+                <nd ref="1167046817"/>
+                <nd ref="1167046730"/>
+                <nd ref="1167046671"/>
+                <nd ref="26449807"/>
+                <tag k="name" v="Sefgarðar"/>
+                <tag k="highway" v="residential"/>
+        </way>
+        <way id="4342930" version="4" timestamp="2013-09-05T22:55:10Z" changeset="17695745" uid="209717" user="Kjarrval">
+                <nd ref="26449756"/>
+                <nd ref="1692322865"/>
+                <nd ref="1692322488"/>
+                <nd ref="1692322569"/>
+                <nd ref="26449804"/>
+                <tag k="name" v="Sævargarðar"/>
+                <tag k="highway" v="residential"/>
+        </way>
+        <way id="4342932" version="6" timestamp="2011-08-10T23:29:22Z" changeset="8981508" uid="6124" user="Tiny">
+                <nd ref="26449762"/>
+                <nd ref="1394259536"/>
+                <nd ref="1394259532"/>
+                <nd ref="1394259525"/>
+                <nd ref="1394259516"/>
+                <nd ref="1394259507"/>
+                <nd ref="1394259497"/>
+                <nd ref="26449830"/>
+                <nd ref="26449829"/>
+                <tag k="name" v="Bygggarðar"/>
+                <tag k="highway" v="residential"/>
+        </way>
+        <way id="4342933" version="3" timestamp="2011-01-08T14:57:32Z" changeset="6904532" uid="53579" user="Dabbi">
+                <nd ref="26449829"/>
+                <nd ref="26449832"/>
+                <nd ref="26449833"/>
+                <nd ref="26449834"/>
+                <nd ref="26449835"/>
+                <nd ref="1091514675"/>
+                <nd ref="26449836"/>
+                <nd ref="26449837"/>
+                <nd ref="26449838"/>
+                <nd ref="26449839"/>
+                <nd ref="26449840"/>
+                <nd ref="26449841"/>
+                <nd ref="26449842"/>
+                <nd ref="1091514608"/>
+                <nd ref="26449843"/>
+                <nd ref="1091514664"/>
+                <nd ref="27468615"/>
+                <tag k="highway" v="track"/>
+        </way>
+        <way id="45705404" version="4" timestamp="2013-11-08T10:55:34Z" changeset="18779943" uid="886861" user="Stefan Baldursson">
+                <nd ref="582291682"/>
+                <nd ref="582291683"/>
+                <nd ref="582291684"/>
+                <nd ref="582291685"/>
+                <nd ref="582291682"/>
+                <tag k="name" v="Netbilar.is"/>
+                <tag k="phone" v="+3545885300"/>
+                <tag k="source" v="Local knowledge"/>
+                <tag k="website" v="netbilar.is"/>
+                <tag k="building" v="yes"/>
+                <tag k="addr:city" v="Kópavogur"/>
+                <tag k="addr:street" v="Hlíðasmári"/>
+                <tag k="addr:postcode" v="201"/>
+                <tag k="building:levels" v="6"/>
+                <tag k="addr:housenumber" v="2"/>
+        </way>
+        <relation id="37431" version="9" timestamp="2013-08-11T18:56:56Z" changeset="17307441" uid="337846" user="Morten Lange">
+                <member type="way" ref="26989622" role=""/>
+                <tag k="name" v="Powerade hlaupið"/>
+                <tag k="type" v="route"/>
+                <tag k="fixme" v="Length of ring is 10km. Delete this ?"/>
+                <tag k="route" v="foot"/>
+                <tag k="operator" v="hlaup.is"/>
+        </relation>
+        <relation id="37637" version="19" timestamp="2014-08-15T21:09:16Z" changeset="24776100" uid="5446" user="Freek">
+                <member type="way" ref="5791445" role="outer"/>
+                <member type="way" ref="195222386" role="outer"/>
+                <member type="way" ref="297994398" role="outer"/>
+                <member type="way" ref="170464692" role="outer"/>
+                <member type="way" ref="170500183" role="inner"/>
+                <member type="way" ref="170500184" role="inner"/>
+                <member type="way" ref="170500185" role="inner"/>
+                <member type="way" ref="170464783" role="inner"/>
+                <member type="way" ref="170464765" role="inner"/>
+                <member type="way" ref="170464755" role="inner"/>
+                <member type="way" ref="170464773" role="inner"/>
+                <member type="way" ref="170464715" role="inner"/>
+                <member type="way" ref="170464788" role="inner"/>
+                <member type="way" ref="170464727" role="inner"/>
+                <member type="way" ref="170464741" role="inner"/>
+                <member type="way" ref="170464734" role="inner"/>
+                <member type="way" ref="170464702" role="inner"/>
+                <member type="way" ref="170464742" role="inner"/>
+                <member type="way" ref="297994397" role="inner"/>
+                <tag k="name" v="Þingvallavatn"/>
+                <tag k="type" v="multipolygon"/>
+                <tag k="water" v="lake"/>
+                <tag k="name:ru" v="Тингвадлаватн"/>
+                <tag k="natural" v="water"/>
+                <tag k="wikipedia" v="is:Þingvallavatn"/>
+        </relation>
+        <relation id="37643" version="7" timestamp="2015-08-20T22:13:05Z" changeset="33472405" uid="391050" user="olede4">
+                <member type="way" ref="25745176" role="outer"/>
+                <member type="way" ref="27125092" role="inner"/>
+                <member type="way" ref="27125093" role="inner"/>
+                <member type="way" ref="278110574" role="inner"/>
+                <tag k="name" v="Elliðavatn"/>
+                <tag k="type" v="multipolygon"/>
+                <tag k="water" v="lake"/>
+                <tag k="name:is" v="Elliðavatn"/>
+                <tag k="name:ru" v="Эдлидаван"/>
+                <tag k="natural" v="water"/>
+                <tag k="wikipedia" v="is:Elliðavatn"/>
+        </relation>
+        <relation id="50576" version="2" timestamp="2013-11-14T09:08:06Z" changeset="18890051" uid="1739329" user="MaggiYmir">
+                <member type="way" ref="25745464" role="outer"/>
+                <member type="way" ref="28316114" role="inner"/>
+                <tag k="name" v="Mjóavatn"/>
+                <tag k="type" v="multipolygon"/>
+        </relation>
+</osm>
