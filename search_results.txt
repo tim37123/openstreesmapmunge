@@ -1,0 +1,45 @@
+> db.collection1.findOne()
+{
+	"_id" : ObjectId("56b05556398a2ff21ff6b7e6"),
+	"id" : "12885854",
+	"pos" : [
+		"-22.5434936",
+		"63.9721673"
+	],
+	"created" : {
+		"timestamp" : "2013-09-07T14:43:51Z",
+		"changeset" : "17719085",
+		"user" : "MdMax",
+		"version" : "5",
+		"uid" : "136345"
+	}
+}
+
+
+
+> db.collection1.find({},{"user": "MdMax"})
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7e6") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7e7") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7e8") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7e9") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7ea") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7eb") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7ec") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7ed") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7ee") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7ef") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f0") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f1") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f2") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f3") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f4") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f5") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f6") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f7") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f8") }
+{ "_id" : ObjectId("56b05556398a2ff21ff6b7f9") }
+
+
+
+
+

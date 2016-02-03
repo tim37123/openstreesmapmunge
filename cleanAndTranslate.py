@@ -1,8 +1,4 @@
 import xml.etree.cElementTree as ET
-import re
-import codecs
-import json
-import copy
 
 INFILENAME = "reykjavik_iceland.osm"
 OUTFILENAME= "reykjavik_iceland.json"
@@ -12,6 +8,7 @@ count = 0
 
 def write(elem):
 	elem = str(elem)+"\n"
+	elem = elem.decode("utf-8").encode('iso-8859-1')
 	f.write(elem)
 	return True
 
