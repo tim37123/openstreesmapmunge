@@ -1,0 +1,1 @@
+https://s3.amazonaws.com/metro-extracts.mapzen.com/reykjavik_iceland.osm.bz2
