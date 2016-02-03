@@ -1,5 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<osm version="0.6" generator="osmconvert 0.7T" timestamp="2016-01-30T00:31:01Z">
-        <bounds minlat="63.771" minlon="-22.826" maxlat="64.297" maxlon="-21.14"/>
-        <node id="12885854" lat="63.9721673" lon="-22.5434936" version="5" timestamp="2013-09-07T14:43:51Z" changeset="17719085" uid="136345" user="MdMax"/>
-</osm>
