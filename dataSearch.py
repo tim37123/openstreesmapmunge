@@ -32,6 +32,9 @@ def clean_up_way(elem):
 		if child.tag == 'tag':
 			#'addr' info needs to be handled differently so add an if statement, then everything else just gets its own key value pair
 			if 'addr:' in child.attrib['k']:
+				if 'addr:postcode' in child.attrib['k']:
+					if int(child.attrib['v']) > 902:
+						print child
 				newKey = child.attrib['k'][5:]
 				node['address'][newKey] = child.attrib['v']
 			else:
@@ -64,6 +67,6 @@ def clean_up_node(elem):
 #iterate through the xml document listed at the top of this file
 for _, element in ET.iterparse(INFILENAME):
 	if element.tag == "node":
-		write(clean_up_node(element))
+		clean_up_node(element)
 	if element.tag == "way":
-		write(clean_up_way(element))
+		clean_up_way(element)
