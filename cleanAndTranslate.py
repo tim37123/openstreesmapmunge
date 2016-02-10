@@ -197,6 +197,13 @@ def clean_up_way(elem):
 	#if we have postal code data for this node, lookup the associated region in our big dictionary above and create a new bit of data
 	if 'postal_code' in node:
 		node['postal_code_region'] = lookupRegion(node['postal_code'])
+	
+	#phone numbers come through a few different ways. make they key consistent for this data and also send it to a function for cleaning
+	if "contact:phone" in node:
+		node['phone'] = cleanNumber(node['contact:phone'])
+		node.pop('contact:phone', None)
+	elif "phone" in node:
+		node['phone'] = cleanNumber(node['phone'])
 
 	return node
 
@@ -218,7 +225,15 @@ def clean_up_node(elem):
 		#everything else gets its own key/value
 		else:
 			node[key] = elem.attrib[key]
+
 	return node
+
+#Clean up phone numbers, remove leading plus signs and white space to make numbers look more consistent
+def cleanNumber(number):
+	if number[0] == '+':
+		number = number[1:]
+	number = number.replace(" ", "")
+	return number
 
 #To help alleviate missing address data I look up region by postal code and embed in teh json
 def lookupRegion(code):
